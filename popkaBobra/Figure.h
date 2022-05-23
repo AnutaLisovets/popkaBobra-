@@ -49,6 +49,10 @@ public:
 		return "Triangle is drowing now...";
 	}
 
+	string unique() {
+		return "it is real triangle!!";
+	}
+
 };
 class Square :public Figure {
 public:
